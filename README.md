@@ -1,7 +1,7 @@
 # Soret Network Predictor
  **"Using Machine Learning to Predict Network Performance of a Micro-Structured Gas Separator Using the Soret Effect"**
 
-Link to Report - TBA
+ Link to Report - TBA
  
  Charlotte Roscoe \
  Worcester Polytechnic Institute -  Major Qualifying Project (MQP) \
@@ -19,6 +19,9 @@ Hydrogen is a promising clean energy source, emitting no CO2 during use. However
 *Full_Data_FINAL.csv*
 * Complete dataset used for the machine learning model.
 * Used in *separation_prediction_model.py*
+
+*MQP_Report.pdf*
+* Full report containing all details of project work.
 
 *Old_Data.csv*
 * Experimental data from past SIT experiments after projection, but before extrapolation.
