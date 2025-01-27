@@ -3,8 +3,8 @@
 
 Link to Report - TBA
  
- Charlotte Roscoe
- Worcester Polytechnic Institute -  Major Qualifying Project (MQP)
+ Charlotte Roscoe \
+ Worcester Polytechnic Institute -  Major Qualifying Project (MQP) \
  01/26/2024
 
 ## Abstract
